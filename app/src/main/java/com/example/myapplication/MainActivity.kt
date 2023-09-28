@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-@Preview(showSystemUi = true)
+@Preview(showSystemUi  = true)
 @Composable
 fun TextoCartao (){
 
