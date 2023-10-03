@@ -39,7 +39,7 @@ fun TextoCartao (){
     ) {
 
       Text(
-          text = "Feliz aniversário",
+          text = "Feliz aniversário ",
           fontSize = 40.sp,
           textAlign = TextAlign.Center
       )
